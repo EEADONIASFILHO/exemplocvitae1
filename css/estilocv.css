@@ -15,15 +15,20 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
 */
 @import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap');
 
+.main{
+  width:1000;
+  height=5000;
+  background-color: gray;
+}
 .poly1{
     /* Polygon 1 */
     position: absolute;
     width: 111.31px;
-    height: 658.87px;
-    left: 641.41px;
-    top: -71.86px;
+    heigh: 658.87px;
+    left: 0 px;
+    top: -10px;
     background: #FFD0C2;
-    transform: rotate(83.62deg);
+    transform: rotate(-5deg);
 }
 .elipsefoto{
     /* Ellipse 1 */
