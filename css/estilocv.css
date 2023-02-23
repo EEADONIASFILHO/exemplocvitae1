@@ -1,0 +1,38 @@
+#poly1{
+    /* Polygon 1 */
+    position: absolute;
+    width: 111.31px;
+    height: 658.87px;
+    left: 641.41px;
+    top: -71.86px;
+    background: #FFD0C2;
+    transform: rotate(83.62deg);
+}
+#elipsefoto{
+    /* Ellipse 1 */
+
+
+position: absolute;
+width: 112px;
+height: 112px;
+left: 33px;
+top: 56px;
+
+background: url(.jpg);
+}
+#doe{
+position: absolute;
+width: 181px;
+height: 48px;
+left: 205px;
+top: 81px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: -0.3px;
+
+color: #2E2E48;
+}
