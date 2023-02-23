@@ -1,4 +1,4 @@
-#poly1{
+.poly1{
     /* Polygon 1 */
     position: absolute;
     width: 111.31px;
@@ -8,7 +8,7 @@
     background: #FFD0C2;
     transform: rotate(83.62deg);
 }
-#elipsefoto{
+.elipsefoto{
     /* Ellipse 1 */
 
 
@@ -20,7 +20,7 @@ top: 56px;
 
 background: url(.jpg);
 }
-#doe{
+.doe{
 position: absolute;
 width: 181px;
 height: 48px;
