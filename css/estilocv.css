@@ -1,3 +1,20 @@
+/* ===== ESTE BLOCO FAZ UM RESET, OU SEJA GARANTE QUE ALGUNS ATRIBUTOS
+ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: none;
+    list-style: none;
+    border: 0;
+    text-decoration: none;
+    /*/overflow: hidden;*/
+  } 
+/* == uma tatica muito usada pelos designers para ter certeza que a letra estara disponivel é a de usar 
+  o comando de importação desejada através do uso do site 
+  https://fonts.google.com/
+*/
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap');
+
 .poly1{
     /* Polygon 1 */
     position: absolute;
